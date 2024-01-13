@@ -4,7 +4,7 @@
   <a href="https://www.npmjs.org/package/new-component"><img src="https://img.shields.io/npm/v/new-component.svg?style=flat" alt="npm"></a>
 </p>
 
-# new-component
+# --- Simple fork of JWC's new-component ---
 
 ### Simple, customizable utility for adding new React components to your project.
 
